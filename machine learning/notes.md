@@ -1,4 +1,5 @@
 # <center>machine learning</center>
+注意内层逻辑的培养；
 ## <center>chapter 1</center>
 What is Machine Learning?
 Arthur Samuel: the field  of study that gives computer the ability without being explicitly programmed
